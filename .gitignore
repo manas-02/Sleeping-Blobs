@@ -1,0 +1,25 @@
+# Ignore Unity-specific files
+[Dd]ebug/
+[Dd]ebugLogs/
+[Tt]emp/
+[Tt]emperature/
+[Ll]ibrary/
+[Ll]ogs/
+obj/
+Build/
+Builds/
+
+# Ignore user-specific files
+*.user
+*.userprefs
+*.unityproj
+*.sln
+*.tmp
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
